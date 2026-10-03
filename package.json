@@ -9,7 +9,7 @@
     "start": "node src/server.js"
   },
   "dependencies": {
-    "bcrypt": "^5.1.1",
+    "bcrypt-js": "^2.4.3",
     "better-sqlite3": "^11.0.0",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.5",
